@@ -1,0 +1,11 @@
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.exe
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.deps.json
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.runtimeconfig.json
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.runtimeconfig.dev.json
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.dll
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\bin\Debug\netcoreapp3.1\VisualStudioDemo.pdb
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\obj\Debug\netcoreapp3.1\VisualStudioDemo.csprojAssemblyReference.cache
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\obj\Debug\netcoreapp3.1\VisualStudioDemo.AssemblyInfoInputs.cache
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\obj\Debug\netcoreapp3.1\VisualStudioDemo.AssemblyInfo.cs
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\obj\Debug\netcoreapp3.1\VisualStudioDemo.dll
+C:\Users\gaute.baalsrud\Documents\VisualStudioDemo\VisualStudioDemo\VisualStudioDemo\obj\Debug\netcoreapp3.1\VisualStudioDemo.pdb
